@@ -119,8 +119,7 @@
 							}
 						]
 					}
-				],
-				"releases": null
+				]
 			},
 			{
 				"name": "Isolation",
@@ -643,8 +642,7 @@
 			"init": {
 				"command": "bin/start_service.sh"
 			}
-		},
-		"releases": null
+		}
 	},
 	"organization": {
 		"orgname": "GR-Product"
